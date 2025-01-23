@@ -1,17 +1,18 @@
 # Instagram-Analysis
-Problem Statement:
-Objective: Analyze Instagram activity data for a Tech Influencer by examining three database tables in MySQL, with the goal of extracting meaningful insights.
-Key Requirements:
+##Problem Statement:
+##Objective:
+Analyze Instagram activity data for a Tech Influencer by examining three database tables in MySQL, with the goal of extracting meaningful insights.
 
-Load provided gdb0120.sql file into MySQL Workbench
-Answer specific questions outlined in sql_questions.pdf
-Develop precise SQL queries for each question
-Prepare a live presentation explaining:
+##Key Requirements:
+1.Load provided sql file into MySQL Workbench
+2. Answer specific questions outlined in sql_questions.pdf
+3. Develop precise SQL queries for each question
+4. Prepare a live presentation explaining:
 
-Analytical approach
-Query methodology
-Key findings and insights
+##Analytical approach
+1.Query methodology
+2.Key findings and insights
 
-Deliverables:
+##Deliverables:
 SQL queries addressing each specified question
 Presentation-ready analysis of Instagram activity data
