@@ -1,4 +1,4 @@
-# Instagram-Analysis
+# Tech Influencer Instagram Peformance Analysis
 ## Project Overview
 The project focuses on enhancing engagement strategies for a tech influencer's Instagram page. Recognizing the critical importance of audience interaction in social media marketing, this analysis aims to provide actionable insights to optimize content and audience engagement.
 
